@@ -7,6 +7,7 @@ Data and business analytics. I turn messy data into decisions, across machine le
 | Project | What it shows |
 | --- | --- |
 | [🤖 Multi-Agent AI Marketing Strategy](https://github.com/sarfrazmangrio/multi-agent-marketing-strategy) | A LangGraph pipeline of four AI agents with RAG and live web search, served through Streamlit |
+| [🔎 Multi-Modal Claim Verification](https://github.com/sarfrazmangrio/multimodal-claim-verification) | Claude vision that judges whether claim photos support, contradict, or under-evidence a customer's claim, with a validated output schema and an evaluation harness |
 | [📈 Time Series Classification with ROCKET](https://github.com/sarfrazmangrio/time-series-classification-rocket) | Multivariate activity recognition with a clean, leak-free cross-validation pipeline |
 | [🚗 Ride-Hailing Marketing Analytics](https://github.com/sarfrazmangrio/ride-hailing-marketing-analytics) | Regression, clustering, and scenario simulation to fix a ride-completion problem |
 | [📊 Power BI Dashboards](https://github.com/sarfrazmangrio/powerbi-dashboards) | A star-schema sales dashboard and a Titanic survival explorer |
