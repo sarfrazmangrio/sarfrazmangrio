@@ -1,8 +1,8 @@
-# Hi, I'm Sarfraz Hussain 👋
+# Sarfraz Hussain
 
-**Machine learning, generative AI, and business analytics, built to survive a second look.**
+Machine learning, generative AI, and business analytics.
 
-I turn data and models into things people can actually use: multi-agent AI systems, a live attention-forecasting app, interactive dashboards, and a food-tech startup in progress. I care more about whether a result holds up than whether it sounds impressive.
+I build applications and analyses that aim to be clear, reproducible, and useful for the decisions they support. The work here spans multi-agent AI systems, time-series forecasting, marketing and consumer analytics, business intelligence, and an early-stage product.
 
 ## Featured projects
 
@@ -49,4 +49,5 @@ I turn data and models into things people can actually use: multi-agent AI syste
 
 ## Connect
 
-- GitHub: [@sarfrazmangrio](https://github.com/sarfrazmangrio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarfraz-hussain-860217197/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/sarfrazmangrio)
