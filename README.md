@@ -1,7 +1,5 @@
 # Sarfraz Hussain
 
-Machine learning, generative AI, and business analytics.
-
 I build applications and analyses that aim to be clear, reproducible, and useful for the decisions they support. The work here spans multi-agent AI systems, time-series forecasting, marketing and consumer analytics, business intelligence, and an early-stage product.
 
 ## Featured projects
