@@ -5,6 +5,7 @@ I build applications and analyses that aim to be clear, reproducible, and useful
 ## Featured projects
 
 ### 🤖 Generative AI
+- **[Invoice PDF to Excel Extraction](https://github.com/sarfrazmangrio/invoice-extraction-demo)**: Claude reads invoice PDFs, scans included, into one Excel workbook, and 8 checks flag the invoices that need review; 668 of 668 fields correct and 6 of 6 planted errors caught on a 20-invoice synthetic test set
 - **[Multi-Agent AI Marketing Strategy](https://github.com/sarfrazmangrio/multi-agent-marketing-strategy)**: a LangGraph pipeline of four AI agents with RAG and live web search, served through Streamlit
 - **[Multi-Modal Claim Verification](https://github.com/sarfrazmangrio/multimodal-claim-verification)**: Claude vision that decides whether claim photos support, contradict, or under-evidence a customer's claim, with a validated output schema and an evaluation harness
 
