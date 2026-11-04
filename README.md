@@ -20,20 +20,19 @@ I build applications and analyses that aim to be clear, reproducible, and useful
 - **[Coca-Cola PLS-SEM](https://github.com/sarfrazmangrio/coca-cola-pls-sem)**: two structural equation models of consumer purchase intention, built in SmartPLS
 
 ### 🚀 Product
-- **[FreshZero AI](https://github.com/sarfrazmangrio/freshzero-ai)**: an expiry-intelligence prototype for grocery retailers that scores perishable stock by batch and recommends the smallest discount to recover sales before it expires
+- **FreshZero AI (MS capstone, in progress)**: LightGBM demand forecasts for near-expiry packaged grocery stock (14,580 store-item series in public Favorita sales data; 14-day forecast error of 29.6% against 35.9% for a moving average) and a simulation of discount rules, with a deployed web prototype. The code is private for now.
 
 ## Toolbox
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-2E7D32)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![SmartPLS](https://img.shields.io/badge/SmartPLS-1f6feb)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
@@ -44,7 +43,7 @@ I build applications and analyses that aim to be clear, reproducible, and useful
 - **Generative AI**: multi-agent systems, RAG, vision, and LLM application design
 - **Machine learning and forecasting**: classification and time-series forecasting with ARIMA, Prophet, LSTM, and transformers, with reproducible evaluation
 - **Analytics and research**: regression, clustering, segmentation, A/B testing, and PLS-SEM
-- **Data and product**: dashboards, data modeling, and a React and Vite product prototype
+- **Data and product**: dashboards, data modeling, and a deployed product prototype
 
 ## Connect
 
